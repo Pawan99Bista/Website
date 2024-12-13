@@ -115,4 +115,4 @@ Captured Moments is a fully responsive, dynamic portfolio website designed to sh
 ## Contact
 If you have any questions, feel free to contact the project developer:
 
-**Developer**: [Prashant Khanal]  
+**Developer**: [Pawan Bista]  
